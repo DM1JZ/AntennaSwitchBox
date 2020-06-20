@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HFRelais)(type Legacy)(uri ${KIPRJMOD}/HFRelais.lib)(options "")(descr ""))
+  (lib (name Stm32BluePill)(type Legacy)(uri ${KIPRJMOD}/Stm32BluePill.lib)(options "")(descr ""))
+)
