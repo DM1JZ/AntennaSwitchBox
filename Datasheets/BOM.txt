@@ -1,0 +1,5 @@
+* HF-Relais: Digikey PB1103CT-ND, 16.52€, 250 VAC, 2 A, 50 W
+* Freilaufdiode: Digikey MMBD914LT3G, 0,10€
+* Hohlstecker: Digikey 839-54-00167-ND, 0,51€
+* FET: Digikey 1727-8643-1-ND, 2N7002NXAKR, 0,10€
+* Taster: Kurzhubtaster, z.B. Reichelt TASTER 9303, 0,15€
