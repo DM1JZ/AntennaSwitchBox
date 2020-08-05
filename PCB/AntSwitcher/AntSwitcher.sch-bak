@@ -351,7 +351,7 @@ $EndComp
 Wire Wire Line
 	8000 2700 8100 2700
 $Comp
-L Device:D D8
+L DiodeFlyback:D D8
 U 1 1 5EDD0315
 P 9150 1150
 F 0 "D8" V 9104 1230 50  0000 L CNN
@@ -377,7 +377,7 @@ Wire Wire Line
 Wire Wire Line
 	8900 1000 9150 1000
 $Comp
-L Device:D D5
+L DiodeFlyback:D D5
 U 1 1 5EDD7DC0
 P 6050 1500
 F 0 "D5" V 6004 1580 50  0000 L CNN
@@ -727,7 +727,7 @@ $EndComp
 Wire Wire Line
 	6850 2950 7100 2950
 $Comp
-L Device:D D6
+L DiodeFlyback:D D6
 U 1 1 5EDF950F
 P 6150 2800
 F 0 "D6" V 6104 2880 50  0000 L CNN
@@ -896,7 +896,7 @@ F 3 "~" H 6650 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D9
+L DiodeFlyback:D D9
 U 1 1 5EDD8BFF
 P 9150 2550
 F 0 "D9" V 9104 2630 50  0000 L CNN

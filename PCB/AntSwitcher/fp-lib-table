@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name HFRelais)(type KiCad)(uri ${KIPRJMOD}/HFRelais.pretty)(options "")(descr ""))
   (lib (name Stm32BluePill)(type KiCad)(uri ${KIPRJMOD}/Stm32BluePill.pretty)(options "")(descr ""))
+  (lib (name BarrelJackSMD)(type KiCad)(uri ${KIPRJMOD}/BarrelJackSMD.pretty)(options "")(descr ""))
 )

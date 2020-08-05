@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/r2d2/Desktop/DF0HSA_AntennaSwitchBox/PCB/AntSwitcher/AntSwitcher.sch)
-    (date "So 21 Jun 2020 01:43:14 CEST")
+    (date "Mi 05 Aug 2020 12:27:31 CEST")
     (tool "Eeschema 5.1.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -79,7 +79,7 @@
       (tstamp 5ECFBBEF))
     (comp (ref J1)
       (value Barrel_Jack)
-      (footprint Connectors:BARREL_JACK)
+      (footprint BarrelJackSMD:BarrelJackSMD)
       (datasheet ~)
       (libsource (lib Connector) (part Barrel_Jack) (description "DC Barrel Jack"))
       (sheetpath (names /) (tstamps /))
